@@ -1,4 +1,5 @@
 Flask
 Gunicorn
+python==3.6
 torch==1.2.0
 fastai==1.0.57
