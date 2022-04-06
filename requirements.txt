@@ -3,6 +3,6 @@ Gunicorn
 python-multipart==0.0.5
 torch==1.2.0
 fastai==1.0.57
-torchvision==1.11.0
+torchvision==0.4.0
 click<8.10
 thinc==3.7.4.1
