@@ -1,7 +1,7 @@
-PYTHON_VERSION==3.6.8
 Flask
 Gunicorn
 python-multipart==0.0.5
 torch==1.2.0
 fastai==1.0.57
 torchvision==0.4.0
+click<8.1.0
