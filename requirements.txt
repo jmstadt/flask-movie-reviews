@@ -5,3 +5,4 @@ torch==1.2.0
 fastai==1.0.57
 torchvision==0.4.0
 click<8.1.0
+typing-extensions<4.0.0.0,>=3.7.4.1
