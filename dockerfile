@@ -10,7 +10,7 @@ COPY . /tmp/
 
 
 # install app
-COPY sentiment_basic.py /
+COPY app.py /
 
 # final configuration
 ENV FLASK_APP=sentiment_basic
